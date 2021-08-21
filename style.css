@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;400&display=swap');
+main {
+    width:300px;
+    height:400px;
+    margin-top:30px;
+    margin-left:30px;
+    background-color:grey;
+}
+header {
+    text-align: center;
+    width:300px;
+    height:60px;
+    background-color:#866b62;
+    color:white;
+    font-family: "Bebas Neue";
+    font-size:10px;
+}
+.box_one{
+    width:300px;
+    height:430px;
+    background-color: #f1D1B5;
+}
+.from_select{
+    width:150px;
+    background-color:#f1D1B5;
+    margin-left:60px;
+    font-family:""Quicksand", sans-serif;"
+
+}
+.to_select{
+    width:150px;
+    background-color:#f1D1B5;
+    display:inline-block;
+    margin-left:60px;
+}
+.button {
+    width:180px;
+    margin-left:60px;
+    background-color: lightblue;
+}
+button {
+    width:100%;
+    height:35px;
+    box-sizing:border-box;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    border:3px solid white;
+    border-radius:25px;
+    background-color: white;
+}
+.box-two{
+    width:300px;
+    background-color:#f1D1B5;
+    display:inline-block;
+    font-family:'Times New Roman', Times, serif;
+}
+.inputtext {
+    margin-left:60px;
+}
+select {
+    width:122%;
+    height:30px;
+
+}
